@@ -14,7 +14,7 @@ Edit `/etc/paludis/repositories/tanvir.conf` and include the following:
 format = e
 location = /var/db/paludis/repositories/tanvir
 sync = git+https://github.com/TanvirOnGH/exheres.git
-sync_options = --branch=main
+sync_options = --branch=dev
 ```
 
 Then run `cave sync tanvir`.
