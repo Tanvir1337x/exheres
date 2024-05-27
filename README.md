@@ -1,6 +1,6 @@
 # About
 
-Personal Exheres for Exherbo Linux based systems.
+Personal [Exheres](https://www.exherbolinux.org/docs/eapi/exheres-for-smarties.html) repository for [Exherbo](https://www.exherbolinux.org) Linux based systems.
 
 ## Note
 
@@ -18,3 +18,10 @@ sync_options = --branch=dev
 ```
 
 Then run `cave sync tanvir`.
+
+## References
+
+- [Exherbo Linux](https://www.exherbolinux.org)
+- [Paludis](https://paludis.exherbolinux.org)
+- [Exheres for Smarties](https://www.exherbolinux.org/docs/eapi/exheres-for-smarties.html)
+- [Exherbo Gitlab Groups](https://gitlab.exherbo.org/explore/groups)
