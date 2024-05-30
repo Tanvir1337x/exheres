@@ -2,9 +2,8 @@
 
 Personal [Exheres](https://www.exherbolinux.org/docs/eapi/exheres-for-smarties.html) repository for [Exherbo](https://www.exherbolinux.org) Linux based systems.
 
-## Note
-
-Currently, it's a boilerplate repository.
+> [!NOTE]  
+> Currently, it's a boilerplate repository.
 
 ## Using This Repository
 
