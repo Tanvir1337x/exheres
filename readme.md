@@ -12,7 +12,7 @@ Edit `/etc/paludis/repositories/tanvir.conf` and include the following:
 ```r
 format = e
 location = /var/db/paludis/repositories/tanvir
-sync = git+https://github.com/TanvirOnGH/exheres.git
+sync = git+https://github.com/Tanvir1337x/exheres.git
 sync_options = --branch=dev
 ```
 
